@@ -50,7 +50,8 @@ pipeline {
 
   post {
     always {
-      echo 'Pipeline completed.'
+      echo 'Pipeline completed.!!! check Change and auto-build'
     }
   }
 }
+
